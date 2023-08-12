@@ -1,5 +1,5 @@
 # Flight_Ticket_Price_Prediction
-FligFlight ticket price prediction is a complex task that involves analyzing a variety of factors, such as the airline, the date of travel, the source and destination airports, and the time of day. Machine learning algorithms can be used to predict flight ticket prices with a high degree of accuracy. This information can be used by travelers to find the best deals on flights.
+Flight ticket price prediction is a complex task that involves analyzing a variety of factors, such as the airline, the date of travel, the source and destination airports, and the time of day. Machine learning algorithms can be used to predict flight ticket prices with a high degree of accuracy. This information can be used by travelers to find the best deals on flights.
 
 Here are some of the factors that can affect flight ticket prices:
 
